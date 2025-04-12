@@ -1,7 +1,7 @@
 {
   "2025": {
     "3": {
-      drydays: {
+      "drydays": {
         "6": "Ram Navami",
         "10": "Mahavir Jayanti",
         "18": "Good Friday",
@@ -9,7 +9,7 @@
     },
 
     "4": {
-      drydays: {
+      "drydays": {
         "1": "Maharashtra Day",
         "12": "Buddha Purnima",
       },
