@@ -1,5 +1,23 @@
 {
     "2025": {
+        "0": {
+            "drydays": {
+                "14": "Makar Sankranti",
+                "26": "Republic Day"
+            }
+        },
+        "1": {
+            "drydays": {
+                "23": "Swami Dayanand Saraswati Jayanti",
+                "26": "Shivratri"
+            }
+        },
+        "2": {
+            "drydays": {
+                "14": "Holi",
+                "31": "Eid ul-Fitr"
+            }
+        },
         "3": {
             "drydays": {
                 "6": "Ram Navami",
@@ -9,8 +27,47 @@
         },
         "4": {
             "drydays": {
-                "1": "Maharashtra Day",
                 "12": "Buddha Purnima"
+            }
+        },
+        "5": {
+            "drydays": {
+                "7": "Bakrid, Eid-al-Adha"
+            }
+        },
+        "6": {
+            "drydays": {
+                "6": "Ashadi Ekadashi, Muharram",
+                "10": "Guru Purnima"
+            }
+        },
+        "7": {
+            "drydays": {
+                "15": "Independence Day",
+                "16": "Janmashthami"
+            }
+        },
+        "8": {
+            "drydays": {
+                "5": "Eid-e-Milad"
+            }
+        },
+        "9": {
+            "drydays": {
+                "2": "Gandhi Jayanti and Dussehra",
+                "7": "Maharishi Valmiki Jayanti"
+            }
+        },
+        "10": {
+            "drydays": {
+                "1": "Kartiki Ekadashi",
+                "5": "Guru Nanak Jayanti",
+                "24": "Guru Tegh Bahadur Shaheedi Diwas"
+            }
+        },
+        "11": {
+            "drydays": {
+                "25": "Christmas"
             }
         }
     }
