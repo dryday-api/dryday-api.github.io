@@ -1,0 +1,99 @@
+{
+  "2025": {
+    "0": {
+      "drydays": {
+        "7": "Monthly Pay Day",
+        "12": "By-election Polling Day",
+        "14": "2nd Tuesday",
+        "15": "By-election Counting Day",
+        "26": "Republic Day",
+        "28": "4th Tuesday"
+      }
+    },
+    "1": {
+      "drydays": {
+        "7": "Monthly Pay Day",
+        "11": "2nd Tuesday",
+        "25": "4th Tuesday"
+      }
+    },
+    "2": {
+      "drydays": {
+        "7": "Monthly Pay Day",
+        "11": "2nd Tuesday",
+        "25": "4th Tuesday"
+      }
+    },
+    "3": {
+      "drydays": {
+        "7": "Monthly Pay Day",
+        "8": "2nd Tuesday",
+        "17": "Ram Navami & Lok Sabha Elections",
+        "18": "Ram Navami & Lok Sabha Elections",
+        "19": "Ram Navami & Lok Sabha Elections",
+        "22": "4th Tuesday"
+      }
+    },
+    "4": {
+      "drydays": {
+        "7": "Monthly Pay Day",
+        "13": "2nd Tuesday",
+        "27": "4th Tuesday"
+      }
+    },
+    "5": {
+      "drydays": {
+        "4": "Lok Sabha Election Counting Day",
+        "7": "Monthly Pay Day",
+        "10": "2nd Tuesday",
+        "24": "4th Tuesday"
+      }
+    },
+    "6": {
+      "drydays": {
+        "7": "Monthly Pay Day",
+        "8": "2nd Tuesday",
+        "22": "4th Tuesday"
+      }
+    },
+    "7": {
+      "drydays": {
+        "7": "Monthly Pay Day",
+        "12": "2nd Tuesday",
+        "15": "Independence Day",
+        "26": "4th Tuesday"
+      }
+    },
+    "8": {
+      "drydays": {
+        "7": "Monthly Pay Day",
+        "9": "2nd Tuesday",
+        "23": "4th Tuesday"
+      }
+    },
+    "9": {
+      "drydays": {
+        "2": "Gandhi Jayanti",
+        "7": "Monthly Pay Day",
+        "14": "2nd Tuesday",
+        "28": "4th Tuesday"
+      }
+    },
+    "10": {
+      "drydays": {
+        "7": "Monthly Pay Day",
+        "11": "2nd Tuesday",
+        "25": "4th Tuesday"
+      }
+    },
+    "11": {
+      "drydays": {
+        "7": "Monthly Pay Day",
+        "9": "2nd Tuesday",
+        "23": "4th Tuesday",
+        "25": "Christmas",
+        "31": "Year-End Dry Day"
+      }
+    }
+  }
+}

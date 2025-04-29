@@ -1,0 +1,62 @@
+{
+  "2025": {
+    "0": {
+      "drydays": {
+        "26": "Republic Day"
+      }
+    },
+    "1": {
+      "drydays": {}
+    },
+    "2": {
+      "drydays": {
+        "14": "Holi",
+        "31": "Eid-ul-Fitr"
+      }
+    },
+    "3": {
+      "drydays": {
+        "6": "Ram Navami",
+        "10": "Mahavir Jayanti",
+        "14": "Ambedkar Jayanti",
+        "18": "Good Friday"
+      }
+    },
+    "4": {
+      "drydays": {
+        "12": "Buddha Purnima"
+      }
+    },
+    "5": {
+      "drydays": {
+        "7": "Eid al-Adha (Bakrid)"
+      }
+    },
+    "6": {
+      "drydays": {}
+    },
+    "7": {
+      "drydays": {
+        "15": "Independence Day"
+      }
+    },
+    "8": {
+      "drydays": {}
+    },
+    "9": {
+      "drydays": {
+        "2": "Gandhi Jayanti"
+      }
+    },
+    "10": {
+      "drydays": {
+        "5": "Guru Nanak Jayanti"
+      }
+    },
+    "11": {
+      "drydays": {
+        "25": "Christmas"
+      }
+    }
+  }
+}
