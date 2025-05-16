@@ -2,12 +2,15 @@
   "2025": {
     "0": {
       "drydays": {
-        "14": "Makar Sankranti",
+        "14": "Pous Parban",
+        "23": "Netaji Subhas Chandra Bose Jayanti",
         "26": "Republic Day"
       }
     },
     "1": {
       "drydays": {
+        "2": "Vasant Panchami",
+        "3": "Vasant Panchami",
         "26": "Maha Shivaratri"
       }
     },
@@ -19,9 +22,7 @@
     },
     "3": {
       "drydays": {
-        "6": "Ram Navami",
-        "10": "Mahavir Jayanti",
-        "14": "Ambedkar Jayanti",
+        "14": "Bengali New Year",
         "18": "Good Friday"
       }
     },
@@ -32,7 +33,7 @@
     },
     "5": {
       "drydays": {
-        "7": "Eid-ul-Zuha (Bakrid)"
+        "7": "Eid-ul-Zuha"
       }
     },
     "6": {
@@ -42,8 +43,7 @@
     },
     "7": {
       "drydays": {
-        "15": "Independence Day",
-        "16": "Janmashtami"
+        "15": "Independence Day"
       }
     },
     "8": {
@@ -53,8 +53,8 @@
     },
     "9": {
       "drydays": {
-        "2": "Gandhi Jayanti and Dussehra",
-        "20": "Diwali"
+        "2": "Gandhi Jayanti",
+        "20": "Durga Puja"
       }
     },
     "10": {
@@ -64,6 +64,7 @@
     },
     "11": {
       "drydays": {
+        "15": "Tripura State Day",
         "25": "Christmas"
       }
     }

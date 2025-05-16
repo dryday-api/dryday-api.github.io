@@ -2,31 +2,27 @@
   "2025": {
     "0": {
       "drydays": {
+        "1": "Monthly Dry Day",
         "14": "Makar Sankranti",
         "26": "Republic Day"
       }
     },
     "1": {
       "drydays": {
-        "3": "Delhi Assembly Elections (Start)",
-        "4": "Delhi Assembly Elections (Polling)",
-        "5": "Delhi Assembly Elections (End)",
-        "8": "Delhi Assembly Election Results",
-        "12": "Guru Ravidas Jayanti",
-        "19": "Chhatrapati Shivaji Maharaj Jayanti",
-        "23": "Swami Dayanand Saraswati Jayanti",
+        "1": "Monthly Dry Day",
         "26": "Maha Shivaratri"
       }
     },
     "2": {
       "drydays": {
-        "5": "Maharishi Dayanand Saraswati Jayanti",
+        "1": "Monthly Dry Day",
         "14": "Holi",
         "31": "Eid-ul-Fitr"
       }
     },
     "3": {
       "drydays": {
+        "1": "Monthly Dry Day",
         "6": "Ram Navami",
         "10": "Mahavir Jayanti",
         "14": "Ambedkar Jayanti",
@@ -35,47 +31,52 @@
     },
     "4": {
       "drydays": {
+        "1": "Monthly Dry Day",
         "12": "Buddha Purnima"
       }
     },
     "5": {
       "drydays": {
+        "1": "Monthly Dry Day",
         "7": "Eid-ul-Zuha (Bakrid)"
       }
     },
     "6": {
       "drydays": {
-        "6": "Muharram and Ashadi Ekadashi",
-        "10": "Guru Purnima"
+        "1": "Monthly Dry Day",
+        "6": "Muharram"
       }
     },
     "7": {
       "drydays": {
+        "1": "Monthly Dry Day",
         "15": "Independence Day",
         "16": "Janmashtami"
       }
     },
     "8": {
       "drydays": {
-        "5": "Eid-e-Milad"
+        "1": "Monthly Dry Day",
+        "5": "Eid-e-Milad",
+        "29": "Sree Narayana Guru Jayanti"
       }
     },
     "9": {
       "drydays": {
+        "1": "Monthly Dry Day",
         "2": "Gandhi Jayanti and Dussehra",
-        "7": "Maharishi Valmiki Jayanti",
         "20": "Diwali"
       }
     },
     "10": {
       "drydays": {
-        "1": "Kartiki Ekadashi",
-        "5": "Guru Nanak Jayanti",
-        "24": "Guru Tegh Bahadur Shaheedi Diwas"
+        "1": "Monthly Dry Day",
+        "5": "Guru Nanak Jayanti"
       }
     },
     "11": {
       "drydays": {
+        "1": "Monthly Dry Day",
         "25": "Christmas"
       }
     }

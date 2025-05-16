@@ -3,25 +3,19 @@
     "0": {
       "drydays": {
         "14": "Makar Sankranti",
-        "26": "Republic Day"
+        "26": "Republic Day",
+        "30": "Shaheed Diwas"
       }
     },
     "1": {
       "drydays": {
-        "3": "Delhi Assembly Elections (Start)",
-        "4": "Delhi Assembly Elections (Polling)",
-        "5": "Delhi Assembly Elections (End)",
-        "8": "Delhi Assembly Election Results",
-        "12": "Guru Ravidas Jayanti",
-        "19": "Chhatrapati Shivaji Maharaj Jayanti",
-        "23": "Swami Dayanand Saraswati Jayanti",
         "26": "Maha Shivaratri"
       }
     },
     "2": {
       "drydays": {
-        "5": "Maharishi Dayanand Saraswati Jayanti",
         "14": "Holi",
+        "23": "Shaheed-e-Azam Bhagat Singh Martyrdom Day",
         "31": "Eid-ul-Fitr"
       }
     },
@@ -29,7 +23,7 @@
       "drydays": {
         "6": "Ram Navami",
         "10": "Mahavir Jayanti",
-        "14": "Ambedkar Jayanti",
+        "14": "Vaisakhi and Ambedkar Jayanti",
         "18": "Good Friday"
       }
     },
@@ -45,8 +39,7 @@
     },
     "6": {
       "drydays": {
-        "6": "Muharram and Ashadi Ekadashi",
-        "10": "Guru Purnima"
+        "6": "Muharram"
       }
     },
     "7": {
@@ -63,15 +56,12 @@
     "9": {
       "drydays": {
         "2": "Gandhi Jayanti and Dussehra",
-        "7": "Maharishi Valmiki Jayanti",
         "20": "Diwali"
       }
     },
     "10": {
       "drydays": {
-        "1": "Kartiki Ekadashi",
-        "5": "Guru Nanak Jayanti",
-        "24": "Guru Tegh Bahadur Shaheedi Diwas"
+        "5": "Guru Nanak Jayanti"
       }
     },
     "11": {

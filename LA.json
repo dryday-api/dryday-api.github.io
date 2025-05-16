@@ -1,0 +1,24 @@
+{
+  "2025": {
+    "0": {
+      "drydays": {
+        "26": "Republic Day"
+      }
+    },
+    "4": {
+      "drydays": {
+        "12": "Buddha Purnima"
+      }
+    },
+    "7": {
+      "drydays": {
+        "15": "Independence Day"
+      }
+    },
+    "9": {
+      "drydays": {
+        "2": "Gandhi Jayanti"
+      }
+    }
+  }
+}
